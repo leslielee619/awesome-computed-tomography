@@ -29,11 +29,6 @@ Collection of CT reconstruction resources
 - PyLops - https://pylops.readthedocs.io/en/latest/api/index.html
 - mumott - https://mumott.org/index.html
 
-<!--
-## 教研组网站 (Websites)
-
--->
-
 ## 网站 (Websites)
 - Michigan Image Reconstruction Toolbox (MIRT) - https://web.eecs.umich.edu/~fessler/code/   
 - Tutorial Introduction to X-ray Computed Microtomography Data Processing - https://www.mcs.anl.gov/research/projects/X-ray-cmt/rivers/tutorial.html  
@@ -43,6 +38,12 @@ Collection of CT reconstruction resources
 - X-RAY DATA BOOKLET - https://xdb.lbl.gov/  
 - NIST X-Ray Mass Attenuation Coefficients - https://www.nist.gov/pml/x-ray-mass-attenuation-coefficients  
 - Bioimaging - https://bookdown.org/jcog196013/BS2010_Notes/
+
+<!--
+## 课题组网站
+- imec Vision Lab - https://visielab.uantwerpen.be/
+- FAU, The Pattern Recognition Lab - https://www5.cs.fau.de/nc/our-team/
+-->
 
 ## 博客 (Blogs)
 https://tomroelandts.com/tags/tomography  
