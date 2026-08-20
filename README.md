@@ -5,7 +5,7 @@ Collection of CT reconstruction resources
 - Gabor T. Herman - *Fundamentals of Computerized Tomography: Image Reconstruction from Projections*  
 - 庄天戈 -《CT原理与算法》  
 - Frank Natterer  - *The Mathematics of Computerized Tomography*
-- A. C. Kak and Malcolm Slaney - *Principles of Computerized Tomographic Imaging*
+- A. C. Kak, Malcolm Slaney - *Principles of Computerized Tomographic Imaging*
 - 张朝宗 - 《工业CT技术和原理》  
 - 谢强(Jiang Hsieh) - 《计算机断层成像技术  原理、设计、伪像和进展》/ *Computed Tomography: Principles,Design,Artifacts and Recent Advances*
 - 曾更生(GENGSHENG L. ZENG) - 《医学图像重建入门》/ *Medical Image Reconstruction*
