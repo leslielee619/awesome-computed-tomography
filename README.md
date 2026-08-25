@@ -48,7 +48,7 @@ Collection of CT reconstruction resources
 
 ## 博客 (Blogs)
 - https://tomroelandts.com/tags/tomography  
-- leslielee.blog.csdn.net - actually, it's my blog 😂🤣😎
+- https://leslielee.blog.csdn.net - actually, it's my blog 😂🤣😎
 
 ## 数据集 (Datasets)
 - Open X-ray Tomographic Datasets - https://www.fips.fi/dataset.php  
