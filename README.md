@@ -19,7 +19,7 @@ Collection of CT reconstruction resources
 - ASTRA Toolbox - https://astra-toolbox.com/     
 - TIGRE (Tomographic Iterative GPU-based Reconstruction Toolbox) - https://tigre.readthedocs.io/en/latest/# | https://github.com/CERN/TIGRE      
   - author: CERN (European Organization for Nuclear Research)
-- RTK (Reconstruction Toolkit) - https://wiki.openrtk.org/index.php/RTK_wiki_help    
+- RTK (Reconstruction Toolkit) - https://www.openrtk.org/    
 - LEAP (LivermorE AI Projector for Computed Tomography) - https://leapct.readthedocs.io/en/stable/index.html   
 - XrayPhysics - http://xrayphysics.com/  
 - GVXR - https://github.com/effepivi/gvxr-demos | https://github.com/effepivi/gvxr-tutorials      
