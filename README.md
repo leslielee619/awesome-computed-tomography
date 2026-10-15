@@ -44,11 +44,11 @@ Collection of CT reconstruction resources
 ## 课题组网站
 - imec Vision Lab - https://visielab.uantwerpen.be/
 - FAU, The Pattern Recognition Lab - https://www5.cs.fau.de/nc/our-team/
--->
 
-## 博客 (Blogs)
+## 博客
 - https://tomroelandts.com/tags/tomography  
 - https://leslielee.blog.csdn.net - actually, it's my blog 😂🤣😎
+-->
 
 ## 数据集 (Datasets)
 - Open X-ray Tomographic Datasets - https://www.fips.fi/dataset.php  
